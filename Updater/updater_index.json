@@ -44,15 +44,15 @@
         "Operation" : 0,
         "RelativePath" : "Launcher_Data/globalgamemanagers",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 127864,
-        "Hash" : "b4JT8klkGlTajqn5vTzthrEAqb8"
+        "Hash" : "A+HJQZgQQepnDMjDHmNV5+AMuU8"
       },
       {
         "Operation" : 0,
         "RelativePath" : "Launcher_Data/globalgamemanagers.assets",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 266832,
         "Hash" : "wvnOJ9XJ48xymnNgCKuAmkIyBuQ"
       },
@@ -60,23 +60,23 @@
         "Operation" : 2,
         "RelativePath" : "Launcher_Data/level0",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
-        "Size" : 23656,
-        "Hash" : "79BwdgkxnrnzpTfZLvXGhH8GaJc"
+        "LastWriting" : "2022-11-29 14:24:10Z",
+        "Size" : 23648,
+        "Hash" : "/zyLAWiLQIeiSnJudj5xQBLjpF4"
       },
       {
         "Operation" : 0,
         "RelativePath" : "Launcher_Data/level0.resS",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 131232,
         "Hash" : "JegE4nD0KoYMs1EG6R1IOO6vpOs"
       },
       {
-        "Operation" : 2,
+        "Operation" : 0,
         "RelativePath" : "Launcher_Data/resources.assets",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 3454056,
         "Hash" : "Yyjmh6STj/J0tCgX4s24Lg1b+44"
       },
@@ -84,7 +84,7 @@
         "Operation" : 0,
         "RelativePath" : "Launcher_Data/resources.assets.resS",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 5728928,
         "Hash" : "Y93VvPhPxrdmBcwbzSafjMFsZPw"
       },
@@ -105,20 +105,28 @@
         "Hash" : "X6p82BnsXsZkGVYbT1LejPGVFBE"
       },
       {
-        "Operation" : 2,
+        "Operation" : 0,
         "RelativePath" : "Launcher_Data/sharedassets0.assets",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 166912,
         "Hash" : "ilP9/mWJF/g24EZKIclXP6/1jvU"
       },
       {
-        "Operation" : 2,
+        "Operation" : 0,
         "RelativePath" : "Launcher_Data/sharedassets0.assets.resS",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 10703760,
         "Hash" : "heMGKVPwTQd/kjqG+pPG1E9mc1k"
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "Logs/logs-20221129.txt",
+        "Attributes" : 32,
+        "LastWriting" : "2022-11-29 14:17:54Z",
+        "Size" : 2379,
+        "Hash" : "6Nt0yRlVAwzoOtiBZ+HjQL78T3g"
       },
       {
         "Operation" : 0,
@@ -1068,7 +1076,7 @@
         "Operation" : 0,
         "RelativePath" : "Launcher_Data/Resources/unity_builtin_extra",
         "Attributes" : 32,
-        "LastWriting" : "2022-11-29 14:12:01Z",
+        "LastWriting" : "2022-11-29 14:24:10Z",
         "Size" : 391768,
         "Hash" : "v4irTT3/SkWNVghp0GZ3b3PBEZo"
       },
