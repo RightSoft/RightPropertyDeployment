@@ -1,0 +1,36 @@
+{
+    "From" : "0.1.1",
+    "To" : "0.1.2",
+    "Hash" : "yvjo71BTEI4IFiwM6HthKiB+Ce0",
+    "TotalSize" : 5637,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/globalgamemanagers",
+        "Attributes" : 32,
+        "LastWriting" : "2022-11-29 12:15:01Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/level1",
+        "Attributes" : 32,
+        "LastWriting" : "2022-11-29 12:15:01Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/resources.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-11-29 12:15:01Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2022-11-29 12:17:45Z",
+        "Size" : 0
+      }
+    ]
+  }
