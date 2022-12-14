@@ -1,0 +1,841 @@
+{
+    "From" : "0.1.6",
+    "To" : "0.1.7",
+    "Hash" : "bsmXDfDhuN6s6hh5Pu2wNyp27gQ",
+    "TotalSize" : 103289214,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/boot.config",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/globalgamemanagers",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/globalgamemanagers.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/level0",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/resources.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/RuntimeInitializeOnLoads.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/ScriptingAssemblies.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/sharedassets0.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/sharedassets0.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp-firstpass.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp-firstpass.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.Timeline.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.Timeline.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.UnityUI.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.UnityUI.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.VisualEffectGraph.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Extensions.VisualEffectGraph.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Runtime.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/AVProVideo.Runtime.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/CW.Common.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/CW.Common.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/ShapesRuntime.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/ShapesRuntime.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Tayx.Graphy.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Tayx.Graphy.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.Addressables.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.Addressables.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.DOTween.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.DOTween.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.Linq.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.Linq.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.TextMeshPro.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UniTask.TextMeshPro.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.TextMeshPro.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.TextMeshPro.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.Timeline.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.Timeline.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.Core.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.Core.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.Flow.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.Flow.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.State.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Unity.VisualScripting.State.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:58Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UnityEngine.UI.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:57Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/UnityEngine.UI.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:57Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/StreamingAssets/settings-example.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:28:59Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_100_percent.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_200_percent.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_elf.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/d3dcompiler_47.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/icudtl.dat",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/libcef.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/libEGL.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/libGLESv2.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/resources.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/snapshot_blob.bin",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/v8_context_snapshot.bin",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/Vuplex WebView.vuplex",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/am.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ar.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bg.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bn.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ca.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/cs.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/da.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/de.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/el.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-GB.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-US.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es-419.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/et.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fa.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fi.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fil.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fr.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/gu.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/he.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hi.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hr.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hu.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/id.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/it.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ja.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/kn.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ko.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lt.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lv.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:20Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ml.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/mr.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ms.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nb.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nl.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pl.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-BR.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-PT.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ro.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ru.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sk.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sl.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sr.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sv.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sw.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ta.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/te.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/th.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/tr.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/uk.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/vi.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-CN.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-TW.pak",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libEGL.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libGLESv2.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:15:21Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:38:11Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 1,
+        "RelativePath" : "RightProperty_Data/StreamingAssets/settings.json",
+        "Attributes" : 0,
+        "LastWriting" : "0001-01-01 00:00:00Z",
+        "Size" : 0
+      }
+    ]
+  }
