@@ -1,0 +1,50 @@
+{
+    "From" : "0.1.7",
+    "To" : "0.1.8",
+    "Hash" : "ymF/x7jnOgnmH369zOHWo3I52j0",
+    "TotalSize" : 328350,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/boot.config",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:59:30Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:59:30Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "RightProperty_Data/Managed/Assembly-CSharp.pdb",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 14:59:30Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/StreamingAssets/settings.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 15:00:36Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "RightProperty_Data/Plugins/x86_64/VuplexWebViewChromium/log-chromium.txt",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 15:02:44Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2022-12-14 15:03:00Z",
+        "Size" : 0
+      }
+    ]
+  }
