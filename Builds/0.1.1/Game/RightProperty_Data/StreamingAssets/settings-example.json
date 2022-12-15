@@ -1,0 +1,18 @@
+{
+  "ApiUrl": "https://api-test.rightproperty.app/",
+  "CanRotate": true,
+  "CanScale": true,
+  "DevelopmentId": 46,
+  "DevelopmentRegistrationKey": "b!18yc@9LS",
+  "DurationForEnteringIdleState": 10.0,
+  "GlobalScale": 1.0,
+  "IgnoreLockState": false,
+  "IsCustomerMode": false,
+  "MaxBedroom": 5,
+  "MaxHeight": 1200.0,
+  "MaxPrice": 0,
+  "MaxWidth": 1200.0,
+  "MenuScale": 0.7,
+  "MinBedroom": 1,
+  "MinPrice": 0
+}
